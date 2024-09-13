@@ -15,14 +15,14 @@
 </div> -->
 
 <div id="badges" align="center">
-  <a href="suhasnagaraj.com">
-    <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white" width="125" alt="Twitter Badge"/>
+  <a href="https://www.suhasnagaraj.com/home">
+    <img src="https://img.shields.io/badge/WEBSITE-orange" width="100"/>
   </a>
   <a href="https://www.linkedin.com/in/suhas-nagaraj/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="137" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/suhasnagaraj99/suhasnagaraj99/blob/main/Suhas%20Nagaraj_Resume.pdf">
-    <img src="https://img.shields.io/badge/RESUME-red" width="100" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/RESUME-red" width="100"/>
   </a>
 </div>
 
