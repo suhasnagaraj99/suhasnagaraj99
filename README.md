@@ -2,7 +2,7 @@
   <h1>
     Hi! 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-       I'm Suhas 
+       I'm Suhas Nagaraj
   </h1>  
 </div>
 <br><br>
@@ -28,7 +28,7 @@
 
 <br><br>
 
-- 👋 Hi, I’m @suhasnagaraj99
+- 👋 Hi, I’m Suhas Nagaraj
 - 👀 I’m interested in Robotics, Artificial Intelligence, Computer Vision, and Natural Language Processing.
 - 🌱 I’m currently learning advanced topics in Deep Learning, Natural Language Processing and Human Robot Interaction, as part of my Master of Engineering in Robotics at the University of Maryland.
 - 💞️ I’m looking to collaborate on projects related to Autonomous Systems, Human Robot Interaction, and Machine Learning applications in Robotics.
